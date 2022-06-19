@@ -58,13 +58,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-9b6aISppMLr5F8Imzz33ChOeks/lElt5UEQ1fHaKruZEmJ/Jf2bZ8A96OL0fPGqhReDoWK5CZec/Btp1ny7+oQ==" src="https://github.githubassets.com/assets/diffs-f5be9a212a69.js"></script>
   
 
-  <title>Sparks_Foundation_Internship/README.md at main · ruship238/Sparks_Foundation_Internship</title>
+  <title>Sparks_Foundation_Internship/clintpage.php at main · ruship238/Sparks_Foundation_Internship</title>
 
 
 
     
 
-  <meta name="request-id" content="D307:2F8B:1930C66:1CC65A4:62AF7490" data-pjax-transient="true" /><meta name="html-safe-nonce" content="3f1f2ac40dc4cb4c00a5e187cb31f0462bc5b81c638a21fa7566ba9d185f6116" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ydXNoaXAyMzgvU3BhcmtzX0ZvdW5kYXRpb25fSW50ZXJuc2hpcCIsInJlcXVlc3RfaWQiOiJEMzA3OjJGOEI6MTkzMEM2NjoxQ0M2NUE0OjYyQUY3NDkwIiwidmlzaXRvcl9pZCI6IjMyMzU4OTk3ODM0NzMyMjk3NDAiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoLTEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="3d7e0a2cc2fd7ae75c6699e8d394c9033af96327028c5302ab6ea3592c67c1ba" data-pjax-transient="true" />
+  <meta name="request-id" content="D30D:2F8B:19310F5:1CC6B3F:62AF74A2" data-pjax-transient="true" /><meta name="html-safe-nonce" content="3f1f2ac40dc4cb4c00a5e187cb31f0462bc5b81c638a21fa7566ba9d185f6116" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ydXNoaXAyMzgvU3BhcmtzX0ZvdW5kYXRpb25fSW50ZXJuc2hpcCIsInJlcXVlc3RfaWQiOiJEMzBEOjJGOEI6MTkzMTBGNToxQ0M2QjNGOjYyQUY3NEEyIiwidmlzaXRvcl9pZCI6IjMyMzU4OTk3ODM0NzMyMjk3NDAiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoLTEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="a58ce7b54f1c08b169606c335285bf131dc948450cc53b5104945beb7a9de649" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:406697283" data-pjax-transient>
 
@@ -99,11 +99,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/04efbc5e513bd77372ccdf848863fdc02c2aabe8d8571f62ac6bc84594ccf4c2/ruship238/Sparks_Foundation_Internship" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Sparks_Foundation_Internship/README.md at main · ruship238/Sparks_Foundation_Internship" /><meta name="twitter:description" content="Banking Mangement System. Contribute to ruship238/Sparks_Foundation_Internship development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/04efbc5e513bd77372ccdf848863fdc02c2aabe8d8571f62ac6bc84594ccf4c2/ruship238/Sparks_Foundation_Internship" /><meta property="og:image:alt" content="Banking Mangement System. Contribute to ruship238/Sparks_Foundation_Internship development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Sparks_Foundation_Internship/README.md at main · ruship238/Sparks_Foundation_Internship" /><meta property="og:url" content="https://github.com/ruship238/Sparks_Foundation_Internship" /><meta property="og:description" content="Banking Mangement System. Contribute to ruship238/Sparks_Foundation_Internship development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/04efbc5e513bd77372ccdf848863fdc02c2aabe8d8571f62ac6bc84594ccf4c2/ruship238/Sparks_Foundation_Internship" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Sparks_Foundation_Internship/clintpage.php at main · ruship238/Sparks_Foundation_Internship" /><meta name="twitter:description" content="Banking Mangement System. Contribute to ruship238/Sparks_Foundation_Internship development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/04efbc5e513bd77372ccdf848863fdc02c2aabe8d8571f62ac6bc84594ccf4c2/ruship238/Sparks_Foundation_Internship" /><meta property="og:image:alt" content="Banking Mangement System. Contribute to ruship238/Sparks_Foundation_Internship development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Sparks_Foundation_Internship/clintpage.php at main · ruship238/Sparks_Foundation_Internship" /><meta property="og:url" content="https://github.com/ruship238/Sparks_Foundation_Internship" /><meta property="og:description" content="Banking Mangement System. Contribute to ruship238/Sparks_Foundation_Internship development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/82323172/ws?session=eyJ2IjoiVjMiLCJ1Ijo4MjMyMzE3MiwicyI6OTAyMTc1MDAzLCJjIjo3NDE3ODA3MzIsInQiOjE2NTU2NjU4MDh9--f4914bef81c0a3768da2dba40dc8a8dd53c5ef26dabc89424b35d10c9825faff" data-refresh-url="/_alive" data-session-id="af5610222b9a2cfa859ab53ca70413a7cfcb734f3b05e14d22aa5c56a685f0be">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/82323172/ws?session=eyJ2IjoiVjMiLCJ1Ijo4MjMyMzE3MiwicyI6OTAyMTc1MDAzLCJjIjo4MTUzMTY0MTAsInQiOjE2NTU2NjU4MzN9--3010f89cdd19f0685e5bec54daa337f3eb8ab330f316e8067dc660a6912ccd01" data-refresh-url="/_alive" data-session-id="af5610222b9a2cfa859ab53ca70413a7cfcb734f3b05e14d22aa5c56a685f0be">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -116,7 +116,7 @@
 
         <meta name="expected-hostname" content="github.com">
 
-        <meta name="js-proxy-site-detection-payload" content="ZjJlNzk5YWZkN2ExODI2YmY5OTc1ZjU0YzFmNGI0NzEwNWZkNWUyNThlMzNiNDllOWE4YjllYTIwMGZkYzRmNXx7InJlbW90ZV9hZGRyZXNzIjoiMTcxLjUwLjIzMC40IiwicmVxdWVzdF9pZCI6IkQzMDc6MkY4QjoxOTMwQzY2OjFDQzY1QTQ6NjJBRjc0OTAiLCJ0aW1lc3RhbXAiOjE2NTU2NjU4MDgsImhvc3QiOiJnaXRodWIuY29tIn0=">
+        <meta name="js-proxy-site-detection-payload" content="YjE3ZTY4ZGY2ZTE3NDNlNjM2NWQxNTgzMWNiM2Q3YTUxZmY2ZjIzYmYwMmJiYjZiODg4NjBkZWExYWExM2I0MHx7InJlbW90ZV9hZGRyZXNzIjoiMTcxLjUwLjIzMC40IiwicmVxdWVzdF9pZCI6IkQzMEQ6MkY4QjoxOTMxMEY1OjFDQzZCM0Y6NjJBRjc0QTIiLCJ0aW1lc3RhbXAiOjE2NTU2NjU4MzMsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,PRESENCE_IDLE,IMAGE_METRIC_TRACKING">
 
@@ -135,7 +135,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -225,7 +225,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="F0YfsM_hLYVrnV2thnoqkBA8XwcitFVXfxx8Ro5mTWcH5BK0YsWiSm77PT-6gNIPTTCHpYUPh2dAAvCmB6u42g" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="eqev6tgPPVh4IR8Hr6YZgC67l5VSbufSkZmCeN4yzSlqBaLudSuyl31Hf5WTXOEfc7dPN_XVNeKuhw6YV_84lA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -424,7 +424,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;ParthAg21&quot;,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/README.md&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="792e5ccc910490727c66f8a0ffcca6bb46a4e5b11e09406bfb70750d1b028120" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;ParthAg21&quot;,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="cf45954822c571e1342159b5d12ab89b0b19ba4b0fc36e9251bb47b06e6a5f1a" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -432,7 +432,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/82323172?s=40&amp;v=4" width="20" height="20" alt="@ParthAg21" />
       ParthAg21
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PpT_t6bhJtZcsDTDQCBnB_ARyJ7fh4zpWrO0wcpniET0adeNWW_M0dsLNaW5s6FY1zuj7naOUfY_27Kjdy3OFg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Bw5kQFPCaV_pQKfeM7_3_u5h7hqCINRhfYdds5bpIorN80x6rEyDWG77prjKLDGhyUuFaispCX4Y71vRK6Nk2A" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -470,7 +470,7 @@
     <notification-indicator
       class="js-socket-channel"
       data-test-selector="notifications-indicator"
-      data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODIzMjMxNzIiLCJ0IjoxNjU1NjY1ODA4fQ==--5994b40bc1a9c75034a12946d41e569999be0e234d00c1669a2e9b9441a01a54">
+      data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODIzMjMxNzIiLCJ0IjoxNjU1NjY1ODMzfQ==--fce9a452c20a8e8d8627673dce2925d72f87554bfcbe398ad832ab6380ef849d">
       <a href="/notifications"
         class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
         
@@ -610,7 +610,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/ruship238/Sparks_Foundation_Internship/blob/main/README.md
+      data-return-to=/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php
       data-user-id="82323172"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -1570,7 +1570,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/README.md&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="cd136fc2396432101cc162adf611e7947eb0c4528bec7de591dbc09dc6887b08" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="25c0621d769f795716c256f8a4be9b76dde4e4687e965e9c1a37b72a1a7be1c1" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1623,7 +1623,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CiVuYLfuzmMFB3cUxqEJdXqMIWVmmjaoKLKtYC0K3ZTYZYpR6xefmToFubmwOO7UPV7x0O9sjOasLB2hN4Ng0Q" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="l5GueXpxUhg1eymtBQWo1narL5Aw0YwFzfatJcizMY9F0UpIJogD4gp55wBznE93MXn_JbknNktJaB3k0jqMyg" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="406697283">
 
@@ -1751,7 +1751,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TKH0N8-jhMNEGNTvuWSJ-6i26NbbByKi--eV7QdgbZGe4RAGk1rVOXsaGkLP_W5a72Q4Y1LxmOx_eSUsHenQ1A" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="v4j2mCfP9DznIAGKLHuvCzkOT00fG9psUsPb6nztehNtyBKpezalxtgizyda4kiqftyf-JbtYCLWXWsrZmTHVg" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="406697283">
 
@@ -1898,7 +1898,7 @@
   </li>
 
   <li>
-          <a href="/ruship238/Sparks_Foundation_Internship/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/README.md&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="c7e50a66e6c50564742b7d4367cc5243fedbc665e8409d91e8366351d2a3b228" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of ruship238/Sparks_Foundation_Internship" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a href="/ruship238/Sparks_Foundation_Internship/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="09b5c1ddf51d7f0fc7d907597e3eeb7ab90285082635bb88088fa6c8ded37ade" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of ruship238/Sparks_Foundation_Internship" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
         <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1927,19 +1927,19 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/ruship238/Sparks_Foundation_Internship/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jApZ4t_WiyQpd-bYRY9eK6Vf69mLeRm0Fb8B44GbA6N5yPiSA_Lt2PU5fqxOASwA9ND1wS1DPPTcMH0p8jG8kg" autocomplete="off" />
-        <input type="hidden" value="yxqp1XAa1UB7l_qd_111HccOqa8HXwYD8-gZzao0Hts-2AilrD6zvKfZYun00wc2loG3t6FlI0M6Z2UH2Z6h6g" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/ruship238/Sparks_Foundation_Internship/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="e_MxSXVy3TF2nwDgt4RzM1C81bfi3Iw7xx-rsO_4OkuOMZA5qVa7zarRmJS8CgEYATPLr0TmqXsOkNd6nFKFeg" autocomplete="off" />
+        <input type="hidden" value="HN-ptVJDUqOpUxd5qVhFRL1ymHVHDazRrvvPUoUQA1jpHQjFjmc0X3Udjw2i1jdv7P2GbeE3iZFndLOY9rq8aQ" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/README.md&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="f75112762ebd5a6219cd1616b1cd6a9bcced1efe73cb20277bc472bc87fc4439" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="8060e7ae9479d37e9f5b551a3332ecca38f6b63570c1feefe55b2a03d2ed177a" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
   
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/ruship238/Sparks_Foundation_Internship/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2f5irs9DKGBoiCHL2eQZ3BjdlcJbBbRLzOCUkayF8_n5xRSRBxzFiOl0g2sqhWnyx58jW1BfVPY1m1lfyH-TZg" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/ruship238/Sparks_Foundation_Internship/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rjoDlywESaHB8kaA3jbCaCCoLRiCM_hPpyCkLXZjrw2OAXWo5FukSUAO5CAtV7JG_-qbgYlpGPJeW2njEpnPkg" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/README.md&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="dd15b92d9dddb64f91cdf6d042e68557c8e897df883cc32209276513eb5f5f1a" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="139f83d11285b755ac4c71fdff42960ea3e365747d5f234e03195c3bfcfa4acd" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1960,13 +1960,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b7f41e">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-9d8247">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-b7f41e"
+        id="filter-menu-9d8247"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2171,7 +2171,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ruship238/Sparks_Foundation_Internship/blob/0326490f9e3ff898b3f558c086ffce62095b1225/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ruship238/Sparks_Foundation_Internship/blob/0326490f9e3ff898b3f558c086ffce62095b1225/clintpage.php">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2255,7 +2255,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/ruship238/Sparks_Foundation_Internship/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/ruship238/Sparks_Foundation_Internship/blob/{{ urlEncodedRefName }}/clintpage.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2295,7 +2295,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/ruship238/Sparks_Foundation_Internship/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/ruship238/Sparks_Foundation_Internship/blob/{{ urlEncodedRefName }}/clintpage.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2326,7 +2326,49 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/ruship238/Sparks_Foundation_Internship"><span>Sparks_Foundation_Internship</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/ruship238/Sparks_Foundation_Internship"><span>Sparks_Foundation_Internship</span></a></span></span><span class="separator">/</span><strong class="final-path">clintpage.php</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:406697283,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;PHP&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="30e910313af431cc9e9befbde313da8d3a31675886a2e478f450508adda0b883" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+  
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
   <a href="/ruship238/Sparks_Foundation_Internship/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">  Go to file
   
@@ -2339,7 +2381,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/README.md&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="8d38d7a9564773ad722eee763ded846d1bd60e329fb70b5e01c7efc52aaf7b3e" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/ruship238/Sparks_Foundation_Internship/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="3c34f8b7c5fd5861d9f37830bebb1ecd329ccaeafdc2df0cc4164d19a29cf1ea" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/ruship238/Sparks_Foundation_Internship/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2350,15 +2392,22 @@
             </span>
   
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+          <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">  <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+  
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="clintpage.php" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/ruship238/Sparks_Foundation_Internship/blob/0326490f9e3ff898b3f558c086ffce62095b1225/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/ruship238/Sparks_Foundation_Internship/blob/0326490f9e3ff898b3f558c086ffce62095b1225/clintpage.php" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2390,7 +2439,7 @@
     <include-fragment src="/ruship238/Sparks_Foundation_Internship/spoofed_commit_check/0326490f9e3ff898b3f558c086ffce62095b1225" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/ruship238/Sparks_Foundation_Internship/contributors/main/README.md" class="commit-loader">
+  <include-fragment src="/ruship238/Sparks_Foundation_Internship/contributors/main/clintpage.php" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2423,28 +2472,18 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      2 lines (2 sloc)
+      89 lines (70 sloc)
       <span class="file-info-divider"></span>
-    56 Bytes
+    2.76 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-    <a href="/ruship238/Sparks_Foundation_Internship/blob/main/README.md?plain=1" data-permalink-href="/ruship238/Sparks_Foundation_Internship/blob/0326490f9e3ff898b3f558c086ffce62095b1225/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-  
-</a>    <a href="/ruship238/Sparks_Foundation_Internship/blob/main/README.md" data-permalink-href="/ruship238/Sparks_Foundation_Internship/blob/0326490f9e3ff898b3f558c086ffce62095b1225/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
-</svg>
-  
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-      <a data-permalink-href="/ruship238/Sparks_Foundation_Internship/raw/0326490f9e3ff898b3f558c086ffce62095b1225/README.md" href="/ruship238/Sparks_Foundation_Internship/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/ruship238/Sparks_Foundation_Internship/raw/0326490f9e3ff898b3f558c086ffce62095b1225/clintpage.php" href="/ruship238/Sparks_Foundation_Internship/raw/main/clintpage.php" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/ruship238/Sparks_Foundation_Internship/blame/0326490f9e3ff898b3f558c086ffce62095b1225/README.md" href="/ruship238/Sparks_Foundation_Internship/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/ruship238/Sparks_Foundation_Internship/blame/0326490f9e3ff898b3f558c086ffce62095b1225/clintpage.php" href="/ruship238/Sparks_Foundation_Internship/blame/main/clintpage.php" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
@@ -2453,23 +2492,23 @@
 
           
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/ruship238/Sparks_Foundation_Internship/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NtZdYHD18ln6BFMKDWw1od1aSTKzCkB9rnPXHkunt9W6u5HfTVeA0MiW2gJaymegwi6h52czJcStlbOG8yMk-g" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/ruship238/Sparks_Foundation_Internship/edit/main/clintpage.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8XC1DeRBHsFcHy-MXIJNFNPhy5rOXaCsgbFck-MEu14OnQmaqsFlxrDKECM9wsCVqEhvwJ5zHShe6BA9yjjrfQ" autocomplete="off" />
     <button title="Fork this project and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
   
 </button></form>
   <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
-    <summary data-disable-invalid="" data-disable-with="" data-hydro-click="{&quot;event_type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;payload&quot;:{&quot;repository_id&quot;:406697283,&quot;actor_id&quot;:82323172,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/README.md&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="847632aae3cd84a296594fa52c8a104c30fdf5650a745ae7a30b609a63dc09c1" aria-label="Select additional options" data-view-component="true" class="select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+    <summary data-disable-invalid="" data-disable-with="" data-hydro-click="{&quot;event_type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;payload&quot;:{&quot;repository_id&quot;:406697283,&quot;actor_id&quot;:82323172,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="ec27fd400f5e7b84ba68e97214e335b70fd454a494c9dd1aa84921daa8722e26" aria-label="Select additional options" data-view-component="true" class="select-menu-button btn-sm btn BtnGroup-item float-none px-2">
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/ruship238/Sparks_Foundation_Internship/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jbNgvQ-lPKj437BItNitzX7GzTWUS40av2zwAvfR6EMB3qwCMgdOIcpNOUDjfv_MYbIl4EBy6KO8ipSaT1V7bA" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/ruship238/Sparks_Foundation_Internship/edit/main/clintpage.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bW4w89pUkLYNFNJRMwaMvTD2-UQq01ogGUvU-ODKTZ6Sg4xklNTrseHB7f5SRgE8S19dHnr956TGEphWyfYdvQ" autocomplete="off" />
             <button title="Fork this project and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">  <div>Edit this file</div>
               <div class="color-fg-muted">E</div>
   
 </button></form>
-            <a aria-label="Open this file in github.dev" data-test-selector="github-dev-link" data-hydro-click="{&quot;event_type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;payload&quot;:{&quot;repository_id&quot;:406697283,&quot;actor_id&quot;:82323172,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/README.md&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="6789a58efd33a888c5381da21dc5c4ea2a9046ed441dbce475774136f9ddb672" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut width-full d-flex flex-justify-between color-fg-default f5 text-normal">
+            <a aria-label="Open this file in github.dev" data-test-selector="github-dev-link" data-hydro-click="{&quot;event_type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;payload&quot;:{&quot;repository_id&quot;:406697283,&quot;actor_id&quot;:82323172,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="489499d366f0d2155c64905ae4dd073056193536435ba42319f75a0fbe3dab92" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut width-full d-flex flex-justify-between color-fg-default f5 text-normal">
               <div>Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
@@ -2484,10 +2523,10 @@
 
           
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/ruship238/Sparks_Foundation_Internship/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/ruship238/Sparks_Foundation_Internship/raw/main/clintpage.php" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/README.md&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="5ed9c8dfeb30de6a2594129a8f760584c2e4572423984968e3912c345a4f619e" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="741ece27a6506886e2d94e3bb645c4f1d28e9155e3fa6550f5fbb4bbb6efcd32" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2513,7 +2552,7 @@
 
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/ruship238/Sparks_Foundation_Internship/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YY7RtmnXewQMX1oFyf6FF-YOgl2tpxOhSf1cn8GvJhc6C5CeeFsGDpBhxjgL3spfdiEW-LzM1xk3URNI6OBRqA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/ruship238/Sparks_Foundation_Internship/delete/main/clintpage.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="J0pMt60BlLYdGiC9IIl6ZeRcp9jM7eY159eXn6GjLDUtt1a_6SRGFcd3lPBuZsfAdejBgH81rgZ_TjpELpFp6A" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2530,8 +2569,8 @@
           aria-haspopup="true"
           aria-label="possible actions"
           data-test-selector="small-screen-more-options"
-          data-hydro-click="{&quot;event_type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;payload&quot;:{&quot;repository_id&quot;:406697283,&quot;actor_id&quot;:82323172,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/README.md&quot;,&quot;user_id&quot;:82323172}}"
-          data-hydro-click-hmac="04ca97e1550139a02b78948069754bdba32a0b3be8f6e104a8b0ec16ba2954e8"
+          data-hydro-click="{&quot;event_type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;payload&quot;:{&quot;repository_id&quot;:406697283,&quot;actor_id&quot;:82323172,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php&quot;,&quot;user_id&quot;:82323172}}"
+          data-hydro-click-hmac="0bbf86013ab62e552733e67fb574a4b3dc9ce9d72c17223bbba9c62cd3a2d237"
         >
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
@@ -2548,15 +2587,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/ruship238/Sparks_Foundation_Internship/raw/main/README.md">
+            <a class="dropdown-item" href="/ruship238/Sparks_Foundation_Internship/raw/main/clintpage.php">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/ruship238/Sparks_Foundation_Internship/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/ruship238/Sparks_Foundation_Internship/raw/main/clintpage.php" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/README.md&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="5ed9c8dfeb30de6a2594129a8f760584c2e4572423984968e3912c345a4f619e">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:406697283,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="741ece27a6506886e2d94e3bb645c4f1d28e9155e3fa6550f5fbb4bbb6efcd32">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2579,20 +2618,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/ruship238/Sparks_Foundation_Internship/blame/main/README.md">
+              <a class="dropdown-item" href="/ruship238/Sparks_Foundation_Internship/blame/main/clintpage.php">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/ruship238/Sparks_Foundation_Internship/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/ruship238/Sparks_Foundation_Internship/edit/main/clintpage.php">Edit file</a>
               </li>
                 <li>
-                  <a class="dropdown-item js-github-dev-shortcut" data-test-selector="small-screen-github-dev-link" data-hydro-click="{&quot;event_type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;payload&quot;:{&quot;repository_id&quot;:406697283,&quot;actor_id&quot;:82323172,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/README.md&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="ef3ed99e1e063d76457d96faa42fd024b8bc43982b2d495e645ec26f2f4f9fea" href="https://github.dev/">Open with github.dev</a>
+                  <a class="dropdown-item js-github-dev-shortcut" data-test-selector="small-screen-github-dev-link" data-hydro-click="{&quot;event_type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;payload&quot;:{&quot;repository_id&quot;:406697283,&quot;actor_id&quot;:82323172,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true,&quot;originating_url&quot;:&quot;https://github.com/ruship238/Sparks_Foundation_Internship/blob/main/clintpage.php&quot;,&quot;user_id&quot;:82323172}}" data-hydro-click-hmac="7c99520272e34b49238db2a6fe67b88312698b05708e6be0f01d4ce22ad5fb44" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/ruship238/Sparks_Foundation_Internship/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/ruship238/Sparks_Foundation_Internship/delete/main/clintpage.php">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2600,11 +2639,434 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-sparks_foundation_internship" class="anchor" aria-hidden="true" href="#sparks_foundation_internship"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Sparks_Foundation_Internship</h1>
-<p dir="auto">Banking Mangement System</p>
-</article>
-  </div>
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-php  gist-border-0">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">      <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">  Show hidden characters
+  
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="PHP" data-tagsearch-path="clintpage.php">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>&lt;?php</span> <span class=pl-k>include_once</span>(<span class=pl-s>&quot;config.php&quot;</span>); <span class=pl-ent>?&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>&lt;?php</span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"> <span class=pl-en>session_start</span>();</td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"> <span class=pl-s1><span class=pl-c1>$</span>san</span>= <span class=pl-s1><span class=pl-c1>$</span>name</span>=<span class=pl-s1><span class=pl-c1>$</span>email</span>=<span class=pl-s>&quot;&quot;</span>;</td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"> <span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_SESSION</span></span>[<span class=pl-s>&#39;id&#39;</span>] = <span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_POST</span></span>[<span class=pl-s>&#39;action&#39;</span>];</td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"> <span class=pl-s1><span class=pl-c1>$</span>san</span> = <span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_SESSION</span></span>[<span class=pl-s>&#39;id&#39;</span>];</td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>?&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!DOCTYPE html<span class=pl-kos>&gt;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>UTF-8</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>viewport</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>width=device-width, initial-scale=1.0</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">    <span class=pl-c>&lt;!-- Bootstrap CSS --&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css</span>&quot; <span class=pl-c1>integrity</span>=&quot;<span class=pl-s>sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk</span>&quot; <span class=pl-c1>crossorigin</span>=&quot;<span class=pl-s>anonymous</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>Document<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>nav</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>navbar navbar-expand-lg navbar-light bg-dark</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>navbar-brand</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>#</span>&quot; <span class=pl-c1>style</span>=&quot;<span class=pl-s>color: rgb(255, 255, 255);</span>&quot;<span class=pl-kos>&gt;</span>Credit Management<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>navbar-toggler</span>&quot; <span class=pl-c1>type</span>=&quot;<span class=pl-s>button</span>&quot; <span class=pl-c1>data-toggle</span>=&quot;<span class=pl-s>collapse</span>&quot; <span class=pl-c1>data-target</span>=&quot;<span class=pl-s>#navbarTogglerDemo02</span>&quot; <span class=pl-c1>aria-controls</span>=&quot;<span class=pl-s>navbarTogglerDemo02</span>&quot; <span class=pl-c1>aria-expanded</span>=&quot;<span class=pl-s>false</span>&quot; <span class=pl-c1>aria-label</span>=&quot;<span class=pl-s>Toggle navigation</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;</span><span class=pl-ent>span</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>navbar-toggler-icon</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>span</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">      </td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>collapse navbar-collapse</span>&quot; <span class=pl-c1>id</span>=&quot;<span class=pl-s>navbarTogglerDemo02</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;</span><span class=pl-ent>ul</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>navbar-nav mr-auto mt-2 mt-lg-0</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;</span><span class=pl-ent>li</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>nav-item active</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">              <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>nav-link</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>Index.php</span>&quot; <span class=pl-c1>style</span>=&quot;<span class=pl-s>color: rgb(255, 255, 255);</span>&quot;<span class=pl-kos>&gt;</span>Home <span class=pl-kos>&lt;</span><span class=pl-ent>span</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>sr-only</span>&quot;<span class=pl-kos>&gt;</span>(current)<span class=pl-kos>&lt;/</span><span class=pl-ent>span</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;</span><span class=pl-ent>li</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>nav-item</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">              <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>nav-link</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>#</span>&quot; <span class=pl-c1>style</span>=&quot;<span class=pl-s>color: rgb(255, 255, 255);</span>&quot;<span class=pl-kos>&gt;</span>Link<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">            </td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;/</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;</span><span class=pl-ent>form</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>form-inline my-2 my-lg-0</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;</span><span class=pl-ent>input</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>form-control mr-sm-2</span>&quot; <span class=pl-c1>type</span>=&quot;<span class=pl-s>search</span>&quot; <span class=pl-c1>placeholder</span>=&quot;<span class=pl-s>Search</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>btn btn-outline-success my-2 my-sm-0</span>&quot; <span class=pl-c1>type</span>=&quot;<span class=pl-s>submit</span>&quot; <span class=pl-c1>style</span>=&quot;<span class=pl-s>color: rgb(255, 255, 255);</span>&quot;<span class=pl-kos>&gt;</span>Search<span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;/</span><span class=pl-ent>form</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;/</span><span class=pl-ent>nav</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;</span><span class=pl-ent>form</span> <span class=pl-c1>method</span>=&quot;<span class=pl-s>post</span>&quot; <span class=pl-c1>action</span>=&quot;<span class=pl-s>page2.php</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;</span><span class=pl-ent>h1</span> <span class=pl-c1>style</span>=&quot;<span class=pl-s>text-align: center;padding: 50px;</span>&quot;<span class=pl-kos>&gt;</span>Select Clint<span class=pl-kos>&lt;/</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>container</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line"> <span class=pl-kos>&lt;</span><span class=pl-ent>table</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>table</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">  </td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">   <span class=pl-kos>&lt;</span><span class=pl-ent>thead</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">   </td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>tr</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span>Id<span class=pl-kos>&lt;/</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span>Name<span class=pl-kos>&lt;/</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span>Email<span class=pl-kos>&lt;/</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span>Credit<span class=pl-kos>&lt;/</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;/</span><span class=pl-ent>tr</span><span class=pl-kos>&gt;</span>  </td>
+        </tr>
+        <tr>
+          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;/</span><span class=pl-ent>thead</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>tbody</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line">  <span class=pl-ent>&lt;?php</span></td>
+        </tr>
+        <tr>
+          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line">        </td>
+        </tr>
+        <tr>
+          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>query</span>=<span class=pl-s>&quot;select * from users WHERE id != $san &quot;</span>;</td>
+        </tr>
+        <tr>
+          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>result</span>=<span class=pl-s1><span class=pl-c1>$</span>conn</span>-&gt;<span class=pl-en>query</span>(<span class=pl-s1><span class=pl-c1>$</span>query</span>);</td>
+        </tr>
+        <tr>
+          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>while</span>(<span class=pl-s1><span class=pl-c1>$</span>show</span>=<span class=pl-s1><span class=pl-c1>$</span>result</span>-&gt;<span class=pl-en>fetch_assoc</span>()) {   </td>
+        </tr>
+        <tr>
+          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line">  <span class=pl-ent>?&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>tr</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
+          <td id="LC67" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span><span class=pl-ent>&lt;?php</span> <span class=pl-k>echo</span> <span class=pl-s1><span class=pl-c1>$</span>show</span>[<span class=pl-s>&#39;id&#39;</span>]  <span class=pl-ent>?&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span><span class=pl-ent>&lt;?php</span> <span class=pl-k>echo</span> <span class=pl-s1><span class=pl-c1>$</span>show</span>[<span class=pl-s>&#39;Name&#39;</span>]  <span class=pl-ent>?&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span><span class=pl-ent>&lt;?php</span> <span class=pl-k>echo</span> <span class=pl-s1><span class=pl-c1>$</span>show</span>[<span class=pl-s>&#39;Email&#39;</span>]  <span class=pl-ent>?&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span><span class=pl-ent>&lt;?php</span> <span class=pl-k>echo</span> <span class=pl-s1><span class=pl-c1>$</span>show</span>[<span class=pl-s>&#39;Credit&#39;</span>]  <span class=pl-ent>?&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
+          <td id="LC71" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>type</span>=&quot;<span class=pl-s>submit</span>&quot; <span class=pl-c1>name</span>=&#39;<span class=pl-s>action1</span>&#39; <span class=pl-c1>value</span>=&quot;<span class=pl-ent>&lt;?php</span> <span class=pl-k>echo</span> <span class=pl-s1><span class=pl-c1>$</span>show</span>[<span class=pl-s>&#39;id&#39;</span>];<span class=pl-ent>?&gt;</span>&quot;<span class=pl-kos>&gt;</span>Select<span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
+          <td id="LC72" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;/</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
+          <td id="LC73" class="blob-code blob-code-inner js-file-line">        </td>
+        </tr>
+        <tr>
+          <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
+          <td id="LC74" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;/</span><span class=pl-ent>tr</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
+          <td id="LC75" class="blob-code blob-code-inner js-file-line">  </td>
+        </tr>
+        <tr>
+          <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
+          <td id="LC76" class="blob-code blob-code-inner js-file-line">           </td>
+        </tr>
+        <tr>
+          <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
+          <td id="LC77" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>&lt;?php</span> } <span class=pl-ent>?&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
+          <td id="LC78" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
+          <td id="LC79" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>tbody</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
+          <td id="LC80" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
+          <td id="LC81" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
+          <td id="LC82" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
+          <td id="LC83" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>table</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
+          <td id="LC84" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
+          <td id="LC85" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>form</span><span class=pl-kos>&gt;</span> </td>
+        </tr>
+        <tr>
+          <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
+          <td id="LC86" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L87" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="87"></td>
+          <td id="LC87" class="blob-code blob-code-inner js-file-line">        </td>
+        </tr>
+        <tr>
+          <td id="L88" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="88"></td>
+          <td id="LC88" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L89" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="89"></td>
+          <td id="LC89" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/ruship238/Sparks_Foundation_Internship/blame/0326490f9e3ff898b3f558c086ffce62095b1225/clintpage.php">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/ruship238/Sparks_Foundation_Internship/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
+    </div>
 
     </div>
 
